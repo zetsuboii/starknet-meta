@@ -1,0 +1,19 @@
+{
+  "id": "fibrous",
+  "displayName": "Fibrous Finance",
+  "host": "Fibrous Finance",
+  "description": "Fibrous is price exploration and routing algorithm across multiple AMMs.",
+  "categories": [
+    "defi"
+  ],
+  "contracts": [
+    {
+      "tag": "fibrous_router_v1",
+      "addresses": {
+        "mainnet-alpha": [
+          "0x1b23ed400b210766111ba5b1e63e33922c6ba0c45e6ad56ce112e5f4c578e62"
+        ]
+      }
+    }
+  ]
+}
